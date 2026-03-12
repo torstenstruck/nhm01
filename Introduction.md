@@ -43,9 +43,9 @@ This folder is designed for easy access to stored data. Additionally, it is the 
 
 You therefore need to clean up your folders in storage and keep it nice and structured there as well. The folder will be checked at regular intervals.
 
-**All top-level folders (e.g., /storage/folder1/folder2/ or /storage/folder1/) that comprise only files older than 6 months are regarded as long-term storage and not in active usage. The owner of such folders will be contacted by the NHM01 manager to move the data to different storage solutions. As a very last resort, NHM01 manager will compress and move the data to a local storage solution. At the local storage solution, it will be kept for another year. Before the final deletion of the data, the owner of the data will be contacted to find solutions for another storage solution.**
+**All top-level folders (e.g., /storage/folder1/folder2/ or /storage/folder1/) that comprise only files older than 6 months are regarded as long-term storage and not in active usage. The owner of such folders will be contacted by the NHM01 manager to move the data to different storage solutions if not enough storage capacity is left on NHM01 (i.e., >10% of available space). As a very last resort if no action is taken by the owner, the NHM01 manager will compress and move the data to a local storage solution. At the local storage solution, it will be kept for another year. Before the final deletion of the data, the owner of the data will be contacted to find solutions for another storage solution.**
 
-The goal is to have generally at least 10% of free storage capacity here. This should guarantee enough free space for compression of larger folders as well as analyses generating larger sized, temporary files. 
+The goal is to have generally at least 10% of available storage capacity here. This should guarantee enough free space for compression of larger folders as well as analyses generating larger sized, temporary files. 
 
 Cleaning up means: 
 - Delete all files and folders you already know you will not need any longer (for example, where the run or installation failed). This just clutters the server with dead data and software.
