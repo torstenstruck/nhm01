@@ -41,7 +41,8 @@ This folder is for running analyses. It is not for storage. All data should be s
 
 This folder is designed for easy access to stored data. Additionally, it is the folder which includes the software installations as modules, databases needed for different analyses and should be used for the [Conda installations](Conda.md) as well. You can also run analyses here without problems. Accordingly, it is the largest folder on NHM01 with 64 Tb. Even though it is the largest one, it can get full quite quickly as well.
 
-You therefore need to clean up your folders in storage and keep it nice and structured there as well. The folder will be checked at regular intervals. 
+You therefore need to clean up your folders in storage and keep it nice and structured there as well. The folder will be checked at regular intervals.
+
 **All top-level folders (e.g., /storage/folder1/folder2/ or /storage/folder1/) that comprise only files older than 6 months are regarded as long-term storage and not in active usage. The owner of such folders will contacted by the NHM01 manager to move the data to different storage solutions. As a very last resort, NHM01 manager will compress and move the data to a local storage solution. At the local storage solution, it will be kept for another year. Before the final deletion of the data, the owner of the data will be contacted to find solutions for another storage solution.**
 
 The goal is to have generally at least 10% of free storage capacity here. This should guarantee enough free space for compression of larger folders as well as analyses generating larger sized, temporary files. 
